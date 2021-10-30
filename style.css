@@ -1,0 +1,27 @@
+body {
+    background-color: #475265;
+    color:  #eee;
+    font-family: sans-serif;
+}
+
+a {
+    color: #eee;
+    font-weight: bolder;
+}
+
+header {
+    text-align: center;
+}
+h3 {
+    color: #eee;
+}
+
+
+p {
+    float: left;
+}
+
+
+#logo {
+    float: right;
+}
